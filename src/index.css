@@ -27,6 +27,10 @@ body {
   align-items: center;
   margin-bottom: 20px;
 }
+.btn-block {
+  display: block;
+  width: 100%;
+}
 
 .btn {
   display: inline-block;
@@ -50,10 +54,6 @@ body {
   transform: scale(0.98);
 }
 
-.btn-block {
-  display: block;
-  width: 100%;
-}
 
 .task {
   background: #7a7777;
